@@ -1,4 +1,4 @@
-# 👾 C0d3L34k
+# 👾 C0D3L34K
 
 > "Breaking systems, ethically."
 
